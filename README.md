@@ -2,16 +2,19 @@
 
 Welcome to Port of Catppuccin for Discord! This theme is part of my Hack Club project and features the beautiful Mocha variant of the Catppuccin color scheme.
 
+Funnily enough, this was harder than my pink theme, even though it looks soo much easier (too many variables)
+
 ## Preview
 
-![Catppuccin Mocha Theme Preview](path/to/preview-image.png)
+![Catppuccin Mocha Theme Preview](https://r2.e-z.host/6a654b74-60b6-49ae-8334-a68dd26c57c9/r4jbq10z.png)
+![Catppuccin Mocha Theme Preview](https://r2.e-z.host/6a654b74-60b6-49ae-8334-a68dd26c57c9/etvjrjjc.png)
 
 ## Installation
 ## Installation for BetterDiscord
 
 To install the Catppuccin Mocha theme for BetterDiscord, follow these steps:
 
-1. **Download the theme file**: [Download here](path/to/theme-file.css)
+1. **Download the theme file**: [Download here](https://raw.githubusercontent.com/fanqyxl/Mocha-Catppucin-Port-For-Discord/refs/heads/main/catppuccin-frappe.css)
 2. **Apply the theme**:
     - Open Discord and go to `User Settings`.
     - Navigate to `Themes` under the `BetterDiscord` section.
@@ -23,7 +26,7 @@ To install the Catppuccin Mocha theme for BetterDiscord, follow these steps:
 
 To install the Catppuccin Mocha theme for Vencord, follow these steps:
 
-1. **Copy the theme file link**: [Link here](path/to/theme-file.css)
+1. **Copy the theme file link**: [Link here](https://raw.githubusercontent.com/fanqyxl/Mocha-Catppucin-Port-For-Discord/refs/heads/main/catpuccin-theme-frappe.css)
 2. **Apply the theme**:
     - Open Vencord and go to `User Settings`.
     - Navigate to `Themes` under the `Vencord` section.
@@ -33,7 +36,7 @@ To install the Catppuccin Mocha theme for Vencord, follow these steps:
 
 or:
 
-1. **Download the theme file**: [Download here](path/to/theme-file.css)
+1. **Download the theme file**: [Download here](https://raw.githubusercontent.com/fanqyxl/Mocha-Catppucin-Port-For-Discord/refs/heads/main/catppuccin-frappe.css)
 2. **Apply the theme**:
     - Open Discord and go to `User Settings`.
     - Navigate to `Themes` under the `Vencord` section.
