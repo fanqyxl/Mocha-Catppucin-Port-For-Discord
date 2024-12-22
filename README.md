@@ -4,6 +4,8 @@ Welcome to Port of Catppuccin for Discord! This theme is part of my Hack Club pr
 
 Funnily enough, this was harder than my pink theme, even though it looks soo much easier (too many variables)
 
+Things will definitely break!! (be aware)!
+
 ## Preview
 
 ![Catppuccin Mocha Theme Preview](https://r2.e-z.host/6a654b74-60b6-49ae-8334-a68dd26c57c9/r4jbq10z.png)
