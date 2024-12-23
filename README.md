@@ -6,6 +6,8 @@ Funnily enough, this was harder than my pink theme, even though it looks soo muc
 
 Things will definitely break!! (be aware)!
 
+Idk why this took me so much time, probably bc things kept breaking.
+
 ## Preview
 
 ![Catppuccin Mocha Theme Preview](https://r2.e-z.host/6a654b74-60b6-49ae-8334-a68dd26c57c9/r4jbq10z.png)
@@ -56,7 +58,7 @@ or:
 
 - [Catppuccin](https://github.com/catppuccin) for the beautiful color palette.
 - [Hack Club](https://hackclub.com) for the inspiration for me to code in the first place.
-- [Catppuccin-Discord] (https://github.com/catppuccin/discord) I really liked these ports, but everything was    good (except) the mocha one, i felt like I could make it better, also most code was inspired from this!
+- [Catppuccin-Discord] (https://github.com/catppuccin/discord) I really liked these ports, but everything was    good (except) the mocha one, i felt like I could make it better, also most code was inspired from this! The Code looks kinda stolen, mainly bc variables stay the same between discord themes. 
 
 Enjoy your new Discord theme!
 I may make more in the future
